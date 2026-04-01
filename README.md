@@ -2,7 +2,7 @@
 
 A passionate junior Full-Stack Developer and Information Systems student from Addis Ababa University.
 
-## 🚀 About Me
+### About Me
 -  I’m currently working on: Improving my knowledge and exploring new ideas that can solve real-world problems.
 -  I’m learning: Django and React.js
 -  How to reach me: wilidiribaaj@email.com
