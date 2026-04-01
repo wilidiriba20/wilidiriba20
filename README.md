@@ -27,7 +27,7 @@ A passionate junior Full-Stack Developer and Information Systems student from Ad
 ## 📌 Projects
 
 ###  Unimart
-![Unimart Screenshot](https://raw.githubusercontent.com/wilidiriba20/unimartt/main/screenshots/unimart_home.png)
+(https://unimart-production-f4a1.up.railway.app/)
 
 A full e-commerce web application built using Django.
 
@@ -43,7 +43,7 @@ A full e-commerce web application built using Django.
 ---
 
 ### 🇪🇹 Discover Ethiopia
-![Discover Ethiopia Screenshot](https://raw.githubusercontent.com/wilidiriba20/Discover-Ethiopia/main/screenshots/discover_home.png)
+![Discover Ethiopia Screenshot](https://github.com/wilidiriba20/Discover-Ethiopia/upload/main/image)
 
 A tourism website that shows the beauty and culture of Ethiopia.
 
@@ -71,4 +71,4 @@ A tourism website that shows the beauty and culture of Ethiopia.
 ---
 
 ## ⚡ Fun Fact
-I love solving problems and building web apps 🚀
+I love solving problems and building web apps 
