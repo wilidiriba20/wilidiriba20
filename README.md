@@ -43,8 +43,7 @@ A full e-commerce web application built using Django.
 ---
 
 ### 🇪🇹 Discover Ethiopia
-![Discover Ethiopia Screenshot](https://github.com/wilidiriba20/Discover-Ethiopia/upload/main/image)
-
+(https://discover-ethiopia2.vercel.app/)
 A tourism website that shows the beauty and culture of Ethiopia.
 
 **Features:**
