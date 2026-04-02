@@ -79,15 +79,14 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wilidiriba20&show_icons=true&theme=tokyonight)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=wilidiriba20&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilidiriba20&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wilidiriba20&show_icons=true&theme=tokyonight)  
+![Streak](https://streak-stats.demolab.com?user=wilidiriba20&theme=tokyonight)  
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wilidiriba20&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=wilidiriba20&theme=tokyonight)
-
 ---
 
 ## ⚡ Fun Fact
@@ -95,8 +94,4 @@ I love solving problems and building impactful web applications 🚀
 
 ---
 
-## 🔥 Animated Header (Optional)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Wili+Diriba;Full+Stack+Developer;Django+%7C+React+Developer;Always+Learning+New+Things" />
-</p>
