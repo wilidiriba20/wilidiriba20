@@ -77,21 +77,18 @@
 
 ---
 
-## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wilidiriba20&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=wilidiriba20&theme=tokyonight)  
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wilidiriba20&layout=compact&theme=tokyonight)
+![Stats](https://github-stats-extended.vercel.app/api?username=wilidiriba20&show_icons=true&theme=tokyonight)
 
----
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=wilidiriba20&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=wilidiriba20&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=wilidiriba20&theme=tokyonight)
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wilidiriba20&theme=tokyonight)
 ---
 
 ## ⚡ Fun Fact
 I love solving problems and building impactful web applications 🚀
-
----
-
-
